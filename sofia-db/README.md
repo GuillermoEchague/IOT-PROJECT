@@ -18,7 +18,7 @@ setupDabase(conf).then(db => {
 ```
 
 ### Pantalla Tab1
-![](img/SeEckP4.png)
+![](img/SeEckP4.jpg)
 
 ### Relacion DB
-![](img/relacion.jpg)
+![](img/relacion.png)
